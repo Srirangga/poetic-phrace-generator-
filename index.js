@@ -1,10 +1,10 @@
 import { generateTextAndImage } from "./utils.js"
 
 // 1. Change the value of the variable to your name
-let name = "Guil Hernandez"
+let name = "Sriranga Bharadwaj"
 
 // 2. Change the value of the variable to your favorite activity
-let favoriteActivity = "kayaking"
+let favoriteActivity = "Research"
 
 // 3. Assign the favoritePlace variable your favorite place
 // I.e. city, mountain, pub, forrest, beach, Manhattan, etc.
